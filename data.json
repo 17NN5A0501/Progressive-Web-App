@@ -1,0 +1,47 @@
+{
+	"basics":{
+		"name":"ISWARYA",
+		"role":"Mean-stack",
+		"mobile":"+91 8988453261",
+		"email":"kiswarya291@gmail.com"
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+       {	
+		"degree":"B.Tech(computer science & engineering)",
+		"institute":"vignan nirula",
+		"data":["2016-20","89%"]
+		},
+		{
+		"degree":"Diploma(CME)",
+		"institute":"suvr & SR",
+		"data":["2014-17","89%"]
+		},
+		{	
+		"degree":"S.S.C",
+		"institute":"Z.P.High school",
+		"data":["2014-","89%"]
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming Languages",
+			"content":["Python","C","Java","R","C++"]
+		},
+		{
+			"title":"Data Bases",
+			"content":["Sql","Oracle","mySql"]
+		},
+		{
+			"title":"Web Technologies",
+			"content":["HTML","XML","JavaScript","CSS"]
+		},
+		{
+			"title":"Operating System",
+			"content":["Windows","Unix","Linux"]
+		}
+
+	]
+}
